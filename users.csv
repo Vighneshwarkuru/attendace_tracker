@@ -1,0 +1,8 @@
+username,email,role
+admin1,admin1@example.com,Admin
+techlead1,techlead1@example.com,Tech Lead
+techlead2,techlead2@example.com,Tech Lead
+developer1,dev1@example.com,AI Developer
+developer2,dev2@example.com,AI Developer
+developer3,dev3@example.com,AI Developer
+dev1,dev1@example.com,AI Developer
